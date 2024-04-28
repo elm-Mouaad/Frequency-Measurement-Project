@@ -2,6 +2,7 @@
 
 This project demonstrates frequency measurement using the PIC 16F877A microcontroller. It utilizes the MikroC compiler and an LCD for output.
 
+![Example Image](Images/Circuit.png)
 
 ## Description
 
